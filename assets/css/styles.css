@@ -317,20 +317,16 @@ a {
 }
 
 .list-fruit .item.nth-1 {
-  background-image: url(/assets/img/food1.png);
   background-color: #59cca6;
 }
 
 .list-fruit .item.nth-2 {
-  background-image: url(/assets/img/food2.png);
   background-color: #91ad41;
 }
 .list-fruit .item.nth-3 {
-  background-image: url(/assets/img/food3.png);
   background-color: #e3b375;
 }
 .list-fruit .item.nth-4 {
-  background-image: url(/assets/img/food4.png);
   background-color: #ef7f94;
 }
 
@@ -463,7 +459,7 @@ a {
 .hotline-banner {
   margin-top: 30px;
   text-align: center;
-  background-image: url(/assets/img/background.jpg);
+
   background-attachment: fixed;
   background-size: cover;
   padding: 80px 0px;
